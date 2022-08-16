@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.Fondo{
+   background-image: url(Imagenes/Fo.jpg); 
+   background-repeat: no-repeat ;
+   background-position: 100% 80%;
+   background-size: 1600px;
+background-attachment: fixed;
+}
+.TituloPK{
+height: 50px;
+text-align: center;
+font-family:'DynaPuff', cursive;
+font-size: x-large;
+color: yellow;
+-webkit-text-stroke: 2px blue;
+
+}
+.contenedorLista{
+    background-image: url(Imagenes/Pokedex2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 400px;
+    position: fixed;
+    z-index: 50;
+
+    
+}
+.lista{
+
+    position: relative;
+    margin-top: 120px;
+    list-style-image: url(Imagenes/viñeta1.png);
+
+}
+
+.KantoBox{
+    background: green;
+    height: 700px;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px; ;
+    margin-bottom: 100px;
+}
+
+.KantoLeg1{
+    background-color: blue;
+    text-align: center;
+    height: 600px;
+    width: 300px;
+    display: inline-block;
+
+    
+}
+.KantoLeg2{
+    background-color: yellow;
+    height: 600px;
+    width: 300px;
+    display: inline-block;
+    margin-inline: 25px;
+    
+}
+.KantoLeg3{
+    background-color: red;
+    height: 600px;
+    width: 300px;
+    display: inline-block;
+    
+
+}
+
+.JohtoBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.HoennBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+ margin-bottom: 100px;
+}
+.SinnohBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+ margin-bottom: 100px;
+}
+.UnovaBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+ margin-bottom: 100px;
+}
+.KalosBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+ margin-bottom: 100px;
+}
+.AlolaBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+ margin-bottom: 100px;
+}
+
+.GalarBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+ margin-bottom: 100px;
+}
+.PaldeaBox{
+    background: #5DEAA8;
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+
+  margin-bottom: 100px;   
+}
+.PROX{
+text-align: center;
+margin-top: 20%;
+}
